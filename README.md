@@ -176,22 +176,3 @@ retriever = AzureAISearchRetriever(
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## 📝 License
-
-[Add your license information here]
-
-## 📞 Support
-
-For issues and questions:
-- Check the troubleshooting section
-- Review Azure service documentation
-- Open an issue in the repository
-
-## 🔄 Updates and Maintenance
-
-- Regularly update dependencies
-- Monitor Azure service updates
-- Rotate API keys periodically
-- Review and update the knowledge base regularly
-
